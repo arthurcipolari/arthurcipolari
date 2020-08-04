@@ -3,7 +3,7 @@
 ## Hello World 👋
 
  :round_pushpin: &nbsp; Atualmente estou trabalhando como QA na **Lecom Tecnologia**
- <br/> :red_heart: &nbsp; Buscando colaborar com a qualidade nos projetos
+ <br/> :heart: &nbsp; Buscando colaborar com a qualidade nos projetos
  <br/> 🎓 Estudando Sistemas de Informação na UNESP-Bauru
  <br/> :computer: &nbsp; Minha stack: Angular, Typescript & Node.js
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, automatizar coisas, jogos e Netflix
