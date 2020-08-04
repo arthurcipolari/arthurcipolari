@@ -2,7 +2,7 @@
 
 ## Hello World 👋
 
- <br/> :round_pushpin: &nbsp;  Atualmente estou trabalhando como QA na **Lecom Tecnologia**
+ <br/> :round_pushpin: &nbsp; &nbsp; Atualmente estou trabalhando como QA na **Lecom Tecnologia**
  <br/> :heart: &nbsp; Buscando colaborar com a qualidade nos projetos
  <br/> 🎓 &nbsp; Estudando Sistemas de Informação na UNESP-Bauru
  <br/> :computer: &nbsp; Minha stack: Angular, Typescript & Node.js
