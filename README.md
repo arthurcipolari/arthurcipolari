@@ -1,16 +1,12 @@
-### Hi there 👋
+# Arthur Cipolari
 
-<!--
-**arthurcipolari/arthurcipolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :round_pushpin: &nbsp; Atualmente estou trabalhando como QA na **Lecom Tecnologia**
+ <br/> :red_heart: &nbsp; Buscando colaborar com a qualidade nos projetos
+ <br/> 🎓 Estudando Sistemas de Informação na UNESP-Bauru
+ <br/> :computer: &nbsp; Minha stack: Angular, Typescript & Node.js
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, automatizar coisas, jogos e Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ArthurCipolari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurcipolari/)](https://www.linkedin.com/in/arthurcipolari/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-arthur.cipolari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.cipolari@gmail.com)](mailto:arthur.cipolari@gmail.com)
