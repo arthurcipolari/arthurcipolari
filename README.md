@@ -2,7 +2,6 @@
 
 ## Hello World 👋
 
- <br/> :round_pushpin: &nbsp; &nbsp; Atualmente focado no projeto de TCC "MapMyFood"
  <br/> :heart: &nbsp; Buscando colaborar com a qualidade nos projetos
  <br/> 🎓 &nbsp; Estudando Sistemas de Informação na UNESP-Bauru
  <br/> :computer: &nbsp; Minha stack: Angular & Node.js
